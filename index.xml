@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lis Anna-Langston</title>
+    <link>https://lisannalangston.com/</link>
+    <description>Recent content on Lis Anna-Langston</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2019 14:37:37 -0400</lastBuildDate>
+    
+	<atom:link href="https://lisannalangston.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Drunk Dial</title>
+      <link>https://lisannalangston.com/blog/drunk-dial/</link>
+      <pubDate>Sun, 01 Dec 2019 14:37:37 -0400</pubDate>
+      
+      <guid>https://lisannalangston.com/blog/drunk-dial/</guid>
+      <description>Prometheus Dreaming: Winter, 2019</description>
+    </item>
+    
+    <item>
+      <title>Crucifix Built for Two</title>
+      <link>https://lisannalangston.com/blog/crucifix-built-for-two/</link>
+      <pubDate>Tue, 13 Mar 2018 14:37:37 -0400</pubDate>
+      
+      <guid>https://lisannalangston.com/blog/crucifix-built-for-two/</guid>
+      <description>Best New Writing anthology, 2018</description>
+    </item>
+    
+    <item>
+      <title>Fancy</title>
+      <link>https://lisannalangston.com/blog/fancy/</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://lisannalangston.com/blog/fancy/</guid>
+      <description>Flash Fiction Magazine, March 7, 2017</description>
+    </item>
+    
+    <item>
+      <title>Cape Fear, Open Road to the Ferry, Hurricane Season</title>
+      <link>https://lisannalangston.com/blog/cape-fear/</link>
+      <pubDate>Sat, 31 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lisannalangston.com/blog/cape-fear/</guid>
+      <description>Thrice Fiction, No. 18, December 31, 2016</description>
+    </item>
+    
+    <item>
+      <title>The Day You Find Out Your Uncle was Gunned Down by Police</title>
+      <link>https://lisannalangston.com/blog/the-day-you-find-out-your-uncle-was-gunned-down-by-police/</link>
+      <pubDate>Thu, 07 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://lisannalangston.com/blog/the-day-you-find-out-your-uncle-was-gunned-down-by-police/</guid>
+      <description>Conclave, Spring 2016</description>
+    </item>
+    
+    <item>
+      <title>John Doe</title>
+      <link>https://lisannalangston.com/author/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lisannalangston.com/author/john-doe/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+    <item>
+      <title>Mark Dinn</title>
+      <link>https://lisannalangston.com/author/mark-dinn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lisannalangston.com/author/mark-dinn/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+    </item>
+    
+  </channel>
+</rss>
